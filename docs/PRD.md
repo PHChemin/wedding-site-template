@@ -7,15 +7,15 @@ sobre *o que* construir — não *como* (veja `SDD.md` e `UI_GUIDANCE.md`).
 
 | Campo | Valor |
 | --- | --- |
-| Nome do cliente / marca | |
-| Área de atuação | |
-| Público-alvo | |
-| Tom de voz | (ex.: acolhedor, técnico, premium, divertido) |
+| Nome do cliente / marca | Helena Duarte & Rafael Mendes (casal fictício, site demonstrativo) |
+| Área de atuação | Convite digital de casamento |
+| Público-alvo | Convidados do casamento e compradores do template |
+| Tom de voz | Romântico, direto, acolhedor |
 | Idioma do site | pt-BR |
 
 ## Objetivo da landing
 
-Uma frase: o visitante deve sair entendendo X e fazendo Y (ex.: clicar no WhatsApp).
+O convidado entende data, local, traje e hospedagem, e confirma presença pelo WhatsApp.
 
 ## Conteúdo obrigatório
 
@@ -28,18 +28,18 @@ Uma frase: o visitante deve sair entendendo X e fazendo Y (ex.: clicar no WhatsA
 
 | Canal | URL / número |
 | --- | --- |
-| WhatsApp | |
-| E-mail | |
-| Instagram | |
-| Outro | |
+| WhatsApp | https://wa.me/5531999990000 (fictício) |
+| E-mail | helena.e.rafael@example.com (fictício) |
+| Instagram | — |
+| Outro | PIX helena.rafael@example.com (fictício) |
 
 ## Domínio
 
 | Campo | Valor |
 | --- | --- |
-| URL desejada | (ex.: www.cliente.com.br ou linktree.seudominio.com.br) |
-| Quem compra / renova o domínio | Cliente / Freelancer |
-| Já possui domínio? | Sim / Não |
+| URL desejada | https://casamento.phcdev.com.br |
+| Quem compra / renova o domínio | Freelancer (phcdev.com.br, Registro.br) |
+| Já possui domínio? | Sim — subdomínio CNAME → phchemin.github.io |
 
 ## Fora de escopo (padrão)
 
